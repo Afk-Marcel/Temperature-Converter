@@ -1,3 +1,12 @@
+# Table of Contents
+- [Temperature Conversion Script](#temperature-conversion-script)
+- [How It Works](#how-it-works)
+- [Example Usage](#example-usage)
+- [Error Handling](#error-handling)
+- [Requirements](#requirements)
+- [How to Run](#how-to-run)
+- [License](#license)
+
 # Temperature Conversion Script
 
 This JavaScript script converts a temperature value from one metric (Celsius, Fahrenheit, or Kelvin) to another. The user is prompted to input the original temperature metric, the temperature value to be converted, and the target temperature metric for conversion.
